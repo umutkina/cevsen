@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "752777570863",
+    "firebase_url": "https://cevsen-d3adf.firebaseio.com",
+    "project_id": "cevsen-d3adf",
+    "storage_bucket": "cevsen-d3adf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752777570863:android:048c286ce48e9124",
+        "android_client_info": {
+          "package_name": "com.umutkina.cevsen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752777570863-pv6e87neeva4tc1i84m8jvo91j54a6qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi2o4M5PjIumco98N7EBuU18ExkMUdTHQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

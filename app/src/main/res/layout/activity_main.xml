@@ -1,0 +1,117 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+
+        android:background="#349855"
+        android:orientation="horizontal"
+        android:id="@+id/ll_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_centerVertical="true"
+            android:src="@drawable/notif"
+            android:id="@+id/iv_notif"
+            android:padding="8dp"
+            android:layout_width="48dp"
+            android:layout_height="48dp" />
+        <TextView
+            android:padding="12dp"
+            android:layout_weight="1"
+            android:text="Cevşen"
+            android:layout_centerInParent="true"
+            android:textColor="#FFFFFF"
+            android:gravity="center"
+            android:textSize="32sp"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:id="@+id/iv_Edit"
+            android:padding="8dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/edit_new"
+            android:layout_width="60dp"
+            android:layout_height="60dp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_above="@+id/adView"
+        android:id="@+id/ll_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:padding="12dp"
+            android:textColor="#FFFFFF"
+            android:background="#662233"
+            android:layout_weight="1"
+            android:text="-"
+            android:gravity="center"
+            android:textSize="32sp"
+            android:id="@+id/tv_minus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:padding="12dp"
+            android:textColor="#FFFFFF"
+            android:background="#333333"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textSize="32sp"
+            android:id="@+id/tv_counter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:padding="12dp"
+            android:textColor="#FFFFFF"
+            android:layout_weight="1"
+            android:text="+"
+            android:background="#336633"
+            android:gravity="center"
+            android:textSize="32sp"
+            android:id="@+id/tv_plus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id">
+    </com.google.android.gms.ads.AdView>
+<ScrollView
+    android:layout_above="@+id/ll_bottom"
+    android:layout_below="@+id/ll_top"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:padding="12dp"
+            android:layout_marginTop="24dp"
+
+            android:textSize="16sp"
+            android:id="@+id/tv_text"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

@@ -1,0 +1,103 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    tools:context="com.umutkina.cevsen.SelectCevsenActivity">
+
+    <LinearLayout
+        android:background="#349855"
+        android:orientation="horizontal"
+        android:id="@+id/ll_top"
+        android:gravity="right"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_centerVertical="true"
+            android:src="@drawable/notif"
+            android:id="@+id/iv_notif"
+            android:padding="8dp"
+            android:layout_width="48dp"
+            android:layout_height="48dp" />
+
+        <TextView
+            android:padding="12dp"
+            android:layout_weight="1"
+            android:text="Cevşen"
+            android:textColor="#FFFFFF"
+            android:gravity="center"
+            android:textSize="32sp"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_above="@+id/adView"
+        android:layout_below="@+id/ll_top"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+<TextView
+    android:layout_marginLeft="12dp"
+    android:layout_gravity="left"
+    android:text="Başlangıç"
+    android:textSize="20sp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" />
+        <Spinner
+            android:spinnerMode="dropdown"
+            android:id="@+id/spn_start"
+            android:layout_margin="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:textSize="20sp"
+            android:layout_marginLeft="12dp"
+            android:layout_gravity="left"
+            android:text="Bitiş"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <Spinner
+            android:spinnerMode="dropdown"
+
+            android:id="@+id/spn_end"
+            android:layout_margin="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_margin="12dp"
+            android:padding="12dp"
+            android:textColor="#FFFFFF"
+            android:text="Cevşen Oluştur"
+            android:background="#336633"
+            android:gravity="center"
+            android:textSize="24sp"
+            android:id="@+id/tv_create"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="12dp"
+            android:padding="12dp"
+            android:textColor="#FFFFFF"
+            android:text="Vazgeç"
+            android:background="#336633"
+            android:gravity="center"
+            android:textSize="24sp"
+            android:id="@+id/tv_cancel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id">
+    </com.google.android.gms.ads.AdView>
+</RelativeLayout>

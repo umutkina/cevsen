@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="banner_ad_unit_id">ca-app-pub-4443948134096736/8698367203</string>
+
+    <string name="app_name">Cevsen</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Allâhümme Rabbena * hallisnâ * ve ecirnâ * ve neccinâ mine\'n-nar * ve \'â-finâ va\'fü \'annâ ve edhilne\'l-cennete dara kudsike me\'a\'l-ebrâr * bi \'afvike Yâ Mücîr * bi fadlike Yâ Gaffar * ve es-elüke bihakki hâzihi\'l-esmâi\'l-kerîme-ti\'ş-şerîfeti ve\'s-sıfâti\'l-celîleti\'l-latîfeti en tüsalliye \'alâ seyyidinâ Muhamme-din ve \'alâ âlihî ve sahbihî bi\'adedi ha-senâti Muhammedin bismillah * has-biyallah * lâ ilahe illallah * şehidallâh * kulhüvallâh * mâşâallâh * rabbiyallah * tebârekallâh * te\'âlallâh * tevekkeltü \'alallâh * feseyekfîke hümüllâh * ve hüve\'s-semî\'u\'l-\'alîm *\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâne\'l-emâne lâ uhsî şenâen \'aleyke ente kemâ eşneyte \'alâ nefsik * Yâ Allah * Yâ Rahman * Yâ Rahîm * Yâ Gafur * Yâ Şekûr * Es-elüke bimâ ahseytehû \'aleyke min es-mâike\'l-hüsnâ ve sıfâtike\'l-\'ulyâ ve ke-limâtike\'t-tâmmeti en tağfiralî velivâli-deyye veliüstâzî Sâidi\'n-Nursîyyi veli-talebeti rasâili\'n-nûri velicemî\'i\'l-mü\'-minîne ve\'l-mü\'minâti ve\'l-müslimîne ve\'l-müslimâti\'l-ahyâi minhüm ve\'l-emvâti ve terhamenâ rahmeten tüğnî-nâ bihâ \'an rahmeti men sivâke min halkıke ve en takdiye havâicenâ ve tû\'-tiyenâ süâlenâ fi\'d-dünyâ ve\'l-âhirati ve tahtime lenâ bi\'s-se\'âdeti ve\'ş-şe-hâdeti ve\'l-kerâmeti ve\'l-büşrâ \'inde fîraki\'d-dünyâ ve tecziye Muhamme-den sallallâhü \'aleyhi vesellem \'annâ mâ hüve ehlühû ve müstehakkuh * Ve en lâ tekilenâ ilâ enfüsinâ tarfete \'aynin velâ ilâ ehadin min halkik * Ve tus-liha lenâ şe\'nenâ ve en tahrusenâ bi-\'aynikelletî lâ tenânıü ve tahfezanâ bi-ruknike\'llezî lâ yürâmü Ya Ze\'l-celâli ve\'l-ikrâm ve en tasrife \'annâ ve \'ammen \'ullika \'aleyhi hâzihi\'l-esmâü âfe-te\'l-cinni ve\'l-insi ve\'ş-şeyâtîn * Ve zelzelete\'l-ardi ve dekdekete\'l-cibâli min haşyetih * Ve âfete\'t-tâ\'uni ve\'l-vebâi ve \'ayne\'s-sûi ve vece\'a\'l-cevârihi ve sâira\'l-afât * Ve tahfezanâ min külli şerrin ve su\' * Ve terzükana\'s-selâmete ve\'l-\'âfıyete ve\'l-hayra fi\'d-dünyâ ve\'l-âbirati bi rahmetike yâ erhâme\'r-râhi-mîn ve sallallâhü \'alâ seyyidinâ Mu-hammedin ve âlihî ve sahbihî ecma\'în. Ve\'l-hamdülillâhi Rabbi\'l-\'âlemîn. </string>
+    <string name="warnings">Uyarı</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string-array name="cevsen">
+        <item>Allahümme innî es\'elüke, bi esmâike:\n1- Yâ Allah
+\n2 - Yâ Rahmân
+\n3 - Yâ Rahîm
+\n4 - Yâ Alîm
+\n5 - Yâ Halîm
+\n6 - Yâ Azîm
+\n7 - Yâ Hakîm
+\n8- Yâ Kadîm
+\n9- Yâ Mukîm
+\n10-Yâ Kerîm
+\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, hallisnâ minen nâr.</item>
+        <item>1- Yâ Seyyides sâdât
+\n2 - Yâ Mücîbet deavât
+\n3 - Yâ Veliyyel hasenât
+\n4 - Yâ Refiad derecât
+\n5 - Yâ Azîmel berekât
+\n6 - Yâ Gâfiral hatîât
+\n7 - Yâ Dâfial beliyyât
+\n8- Yâ Sâmial esvât
+\n9- Yâ Mu\'tiyel mes\'ûlât
+\n10- Yâ Âlimes sırrı vel hafiyyât
+\n\n
+
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, hallisnâ minen nâr.</item>
+        <item>            1- Yâ hayral Gâfirîn
+\n2 - Yâ hayran Nâsırîn
+\n3 - Yâ hayral Hâkimîn
+\n4 - Yâ hayral Fâtihîn
+\n5 - Yâ hayraz Zâkirîn
+\n6 - Yâ hayral Vârisîn
+\n7 - Yâ hayral Hâmidîn
+\n8- Yâ hayrar Râzıkîn
+\n9- Yâ hayral Fâsılîn
+\n10-Yâ hayral Muhsinîn
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, hallisnâ minen nâr.</item>
+        <item>            1- Yâ men lehül izzü vel Cemâl
+\n2 - Yâ men lehül mülkü vel Celâl
+\n3 - Yâ men lehül kudretü vel Kemâl
+\n4 - Yâ men hüvel kebîrül Müteâl
+\n5 - Yâ men hüve Şedîdül Mihâl
+\n6 - Yâ men hüve Şedîdül İkâb
+\n7 - Yâ men hüve Serîül Hisâb
+\n8- Yâ men hüve indehû Hüsnüs Sevâb
+\n9- Yâ men hüve indehû Ümmül Kitâb
+\n10- Yâ men hüve yünşiüs Sehabes Sikâl
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, hallisnâ minen nâr.</item>
+        <item>Ve es\'elüke, bi esmâike:
+\n1- Yâ Hannân
+\n2 - Yâ Mennân
+\n3 - Yâ Deyyân
+\n4 - Yâ Gufrân
+\n5 - Yâ Burhân
+\n6 - Yâ Sultân
+\n7 - Yâ Sübhân
+\n8- Yâ Müsteân
+\n9- Yâ zel menni vel beyân
+\n10- Yâ zel emân
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, hallisna minen nâr.</item>
+        <item>            1- Yâ men tevâdaa küllü şey\'in li azemetih
+\n2 - Yâ menistesleme küllü şey\'in li kudretih
+\n3 - Yâ men zelle küllü şey\'in li izzetih
+\n4 - Yâ men hadaa küllü şey\'in li heybetih
+\n5 - Yâ meninkâde küllü şey\'in li mülketih
+\n6 - Yâ men dâne küllü şey\'in min mehâfetih
+\n7 - Yâ meninşakkatül cibâlü min haşyetih
+\n8- Yâ men kâmetis semâvâtü bi emrih
+\n9- Yâ menistekarratil ardu bi iznih
+\n10- Yâ men lâ ya\'tedî alâ ehli memleketih
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, hallisnâ minen nâr.</item>
+        <item>            1- Yâ ğafiral hatâyâ
+ \n2 - Yâ kâşifel belâyâ
+ \n3 - Yâ münteher recâyâ
+ \n4 - Yâ müczilel atâyâ
+ \n5 - Yâ vâsial hedâyâ
+ \n6 - Yâ râzıkal berâyâ
+ \n7 - Yâ kâdıyel münâyâ
+ \n8- Yâ sâmiaş şekâyâ
+ \n9- Yâ bâises serâyâ
+ \n10- Yâ mütlikal üsârâ
+  \n \n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, hallisnâ minen nâr.</item>
+        <item>           \n  1- Yâ zel hamdi vessenâ
+ \n2 - Yâ zel mecdi vessenâ
+ \n3 - Yâ zel fahri vel behâ
+ \n4 - Yâ zel ahdi vel vefâ
+ \n5 - Yâ zel afvi verrıdâ
+ \n6 - Yâ zel menni vel atâ
+ \n7 - Yâ zel faslı vel kazâ
+ \n8- Yâ zel izzeti vel bekâ
+ \n9- Yâ zel cûdi venne\'ma
+ \n10-Yâ zel fadli vel âlâ
+  \n \n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, hallisnâ minen nâr.</item>
+        <item>            Ve es\'elüke, bi esmâike:
+\n 1- Yâ Mâniu
+\n 2- Yâ Dâfiu
+\n 3- Yâ Nâfiu
+\n 4- Yâ Sâmiu
+\n 5- Yâ Râfiu
+\n 6- Yâ Sâniu
+\n 7- Yâ Şâfiu
+\n 8- Yâ Câmiu
+\n 9- Yâ Vâsiu
+\n 10- Yâ mûsiu
+ \n \n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, hallisnâ minen nâr.</item>
+        <item>1- Yâ Sânia külli masnû
+\n2 - Yâ Hâlika külli mahlûk
+\n3 - Yâ Râzıka külli merzûk
+\n4 - Yâ Mâlike külli memlûk
+\n5 - Yâ Kâşife külli mekrûb
+\n6 - Yâ Fârice külli mağmûm
+\n7 - Yâ Râhime külli merhûm
+\n8- Yâ Nâsıra külli mahzûl
+\n9- Yâ Sâtira külli ma\'yûb
+\n10- Yâ Melcee külli mazlûm
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, hallisnâ minen nâr.</item>
+        <item>          \n1- Yâ İddetî inde şiddetî\n2 - Yâ Racâî inde musîbetî\n3 - Yâ Mûnisî inde vahşeti\n4 - Yâ Sâhibi inde ğurbeti\n5 - Yâ Veliyyi inde ni\'meti\n6 - Yâ Kâşifî inde kurbetî\n7 - Yâ Ğıyâsî indef tıkârî\n8- Yâ Melceî inded dırârî\n9- Yâ Muînî inde fezeî\n10- Yâ Delîlî inde hayretî\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, hallisnâ minen nâr.</item>
+        <item>            1- Yâ allâmel ğuyûb\n2 - Yâ ğaffârazzünûb\n3 - Yâ settâral uyûb\n4 - Yâ keşşâfel kürûb\n5 - Yâ mukallibel kulûb\n6 - Yâ müzeyyinel kulûb\n7 - Yâ münevviral kulûb\n8- Yâ taîbel kulûb\n9- Yâ habîbel kulûb\n10- Yâ enîsel kulûb\n \nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, hallisnâ minen nâr.</item>
+        <item>        Ve es\'elüke, bi esmâike:
+        \n1- Yâ Celîl
+        \n2- Yâ Cemîl
+        \n3- Yâ Vekîl
+        \n4- Yâ Kefîl
+        \n5- Yâ Delîl
+        \n6- Yâ Mukîl
+        \n7- Yâ Habîr
+        \n8- Yâ Latîf
+        \n9- Yâ Azîz
+        \n10- Yâ Melîk
+
+       \n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, hallisnâ minen nâr.</item>
+        <item>1- Yâ delîlel mütehayyirîn
+\n2 - Yâ ğıyâsel müsteğisîn
+\n3 - Yâ sarîhal müstesrihîn
+\n4 - Yâ cârel müstecirîn
+\n5 - Yâ melceel âsîn
+\n6 - Yâ ğâfiral müznibîn
+\n7 - Yâ emânel hâifîn
+\n8- Yâ râhimel mesâkîn
+\n9- Yâ enîsel müstevhışîn
+\n10- Yâ mucîbe da\'vetil mudtarrîn
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, hallisnâ minen nâr.</item>
+        <item>1- Yâ zel cûdi vel ihsân
+\n2 - Yâ zel fadlı vel imtinân
+\n3 - Yâ zel emni vel emân
+\n4 - Yâ zel kudsi vessübhân
+\n5 - Yâ zel hikmeti vel beyân
+\n6 - Yâ zer rahmeti verrıdvân
+\n7 - Yâ zel hücceti vel bürhân
+\n8- Yâ zel azameti vessultân
+\n9- Yâ zel afvi vel gufrân
+\n10- Yâ zerre\'feti vel müsteân
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, hallisnâ minen nâr.</item>
+        <item>            1- Yâ men hüve Rabbü külli şey
+\n2 - Yâ men hüve İlâhu külli şey
+\n3 - Yâ men hüve Hâliku külli şey
+\n4 - Yâ men hüve fevka külli şey
+\n5 - Yâ men hüve kable külli şey
+\n6 - Yâ men hüve ba\'de külli şey
+\n7 - Yâ men hüve Alimu külli şey
+\n8- Yâ men hüve Kâdiru külli şey
+\n9- Yâ men hüve Sâniu külli şey
+\n10- Yâ men hüve yebkâ ve yefnâ külli şey
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, hallisnâ minen nâr.</item>
+        <item>            Ve es\'elüke, bi esmâike:
+\n1- Yâ Mü\'min
+\n2 - Yâ Müheymin
+\n3 - Yâ Mükevvin
+\n4 - Yâ Mülakkın
+\n5 - Yâ Mübeyyin
+\n6 - Yâ Mühevvin
+\n7 - Yâ Müzeyyin
+\n8- Yâ Muazzim
+\n9- Yâ Muavvin
+\n10- Yâ Mülevvin
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, hallisnâ minen nâr.</item>
+        <item>            1- Yâ men hüve fî mülkihî Mukîm
+\n2 - Yâ men hüve fî celâlihî Azîm
+\n3 - Yâ men hüve fî sultânihî Kadîm
+\n4 - Yâ men hüve alâ abdihî Rahîm
+\n5 - Yâ men hüve bi külli şey\'in Alîm
+\n6 - Yâ men hüve li men cefâhü Halîm
+\n7 - Yâ men hüve li men tereccâhü Kerim
+\n8- Yâ men hüve fî makâdîrihî Hakîm
+\n9- Yâ men hüve fî hükmihî Lâtif
+\n10- Yâ men hüve fî lutfihî Kadîr
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, hallisnâ minen nâr.</item>
+        <item>1- Yâ men lâ yürcâ illâ fadluh
+\n2 - Yâ men lâ yühâfü illâ adluh
+\n3 - Yâ men lâ yüntezarû illâ birruh
+\n4 - Yâ men lâ yüs\'eli illâ afvüh
+\n5 - Yâ men lâ yedûmu illâ mülküh
+\n6 - Yâ men lâ sultâne illâ sultanüh
+\n7 - Yâ men lâ bürhâne illâ bürhâneh
+\n8- Yâ men vesiat külle şey\'in rahmetüh
+\n9- Yâ men sebekat rahmetühü alâ gadabih
+\n10- Yâ men ehâta bi külli şey\'in ilmüh
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, hallisnâ minen nâr.</item>
+        <item>            1- Yâ Fâricel hem
+\n2 - Yâ Kâşifel ğam
+\n3 - Yâ Gâfiraz zenb
+\n4 - Yâ Kâbilet tevb
+\n5 - Yâ Hâlikel halk
+\n6 - Yâ Sâdıkel va\'d
+\n7 - Yâ Râzıket tıfl
+\n8- Yâ Mûfiyel ahd
+\n9- Yâ Âlimes sır
+\n10- Yâ Fâlikal hab
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, hallisnâ minen nâr.</item>
+        <item>            Ve es\'elüke, bi esmâike:
+\n1- Yâ Aliy
+\n2 - Yâ Vefiy
+\n3 - Yâ Veliy
+\n4 - Yâ Ganiy
+\n5 - Yâ Meliy
+\n6 - Yâ Zekiy
+\n7 - Yâ Radiy
+\n8- Yâ Bediy
+\n9- Yâ Hafiy
+\n10-Yâ Kaviy
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, hallisnâ minen nâr.</item>
+        <item>            1- Yâ men ezharal Cemîl
+\n2 - Yâ men setra alel kabîh
+\n3 - Yâ men lâ yüâhizü bil cerîmeh
+\n4 - Yâ men lâ yehtiküssitr
+\n5 - Yâ azîmel afv
+\n6 - Yâ hasenettecâvüz
+\n7 - Yâ vâsial mağfirah
+\n8- Yâ bâsitel yedeyni birrahmeh
+\n9- Yâ sâhibe külli necvâ
+\n10-Yâ müntehâ külli şekvâ
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, hallisnâ minen nâr.</item>
+        <item>            1- Yâ zen ni\'metis sâbiğah
+\n2 - Yâ zerrahmetil vâsiah
+\n3 - Yâ zel hikmetil bâliğah
+\n4 - Yâ zel kudretil kâmileh
+\n5 - Yâ zel hücetil kâtiah
+\n6 - Yâ zel kerâmetizzâhirah
+\n7 - Yâ zessıfatil âliyeh
+\n8- Yâ zel izzetiddâimeh
+\n9- Yâ zel kuvvetil metîneh
+\n10-Yâ zel minnetissâbikah
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, hallisnâ minen nâr.</item>
+        <item>            1- Yâ ahkemel hâkimin
+\n2 - Yâ a\'dedel âdilin
+\n3 - Yâ esdakassâdıkîn
+\n4 - Yâ ezharazzâhirîn
+\n5 - Yâ etharattîhirîn
+\n6 - Yâ ahsenel hâlikîn
+\n7 - Yâ esreal hâsibîn
+\n8- Yâ esmaessâmiîn
+\n9- Yâ ekremel ekremîn
+\n10-Yâ erhamerrâhimîn
+\n11-Yâ eşfeaşşâfiîn
+\n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, hallisnâ minen nâr.</item>
+        <item>            1- Yâ Bediâssemâvât
+\n2 - Yâ Câilezzulümât
+\n3 - Yâ Âlimel hafiyyât
+\n4 - Yâ Râhimel aberât
+\n5 - Yâ Sâtirel averât
+\n6 - Yâ Kâşifel beliyyât
+\n7 - Yâ Muhyiyel emvât
+\n8- Yâ Dâifel hasenât
+\n9- Yâ Münzilel berekât
+\n10-Yâ Şedîdennekamât
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, hallisnâ minen nâr.</item>
+        <item>        Ve es\'elüke, bi esmâike:
+        \n1- Yâ Musavvir
+        \n2- Yâ Mukaddir
+        \n3- Yâ Mutahhir
+        \n4- Yâ Münevvir
+        \n5- Yâ Mukaddim
+        \n6- Yâ Muahhir
+       \n7- Yâ Müyessir
+        \n8- Yâ Münzir
+        \n9- Yâ Mübeşşir
+     \n10-Yâ Müdebbir
+       \n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, hallisnâ minen nâr.</item>
+        <item>            1- Yâ Rabbel Beytil Harâm
+\n2 - Yâ Rabbeşşehril Harâm
+\n3 - Yâ Rabbel Mescidil Harâm
+\n4 - Yâ Rabbel Beledil Harâm
+\n5 - Yâ Rabberükni vel makâm
+\n6 - Yâ Rabbel Meş\'aril Harâm
+\n7 - Yâ Rabbel hılli vel Harâm
+\n8- Yâ Rabbennûri vezzalâm
+\n9- Yâ Rabbettahiyyeti vesselâm
+\n10-Yâ Rabbel celâli vel ikrâm
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, hallisnâ minen nâr.</item>
+        <item>            1- Yâ imâde men lâ imâde leh
+\n2 - Yâ senede men lâ senede leh
+\n3 - Yâ zuhra men lâ zuhra leh
+\n4 - Yâ ğıyâse men lâ ğıyâse leh
+\n5 - Yâ hırze men lâ hırze leh
+\n6 - Yâ fahra men lâ fahra leh
+\n7 - Yâ izze men lâ izze leh
+\n8- Yâ muîne men lâ muîne leh
+\n9- Yâ enîse men lâ enîse leh
+\n10-Yâ ğunyete men lâ ğunyete leh
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, hallisnâ minen nâr.</item>
+        <item>            Ve es\'elüke, bi esmâike:
+\n1- Yâ Kâim
+\n2 - Yâ Dâim
+\n3 - Yâ Râhim
+\n4 - Yâ Hâkim
+\n5 - Yâ Âlim
+\n6 - Yâ Âsım
+\n7 - Yâ Kâsım
+\n8- Yâ Sâlim
+\n9- Yâ Kâbid
+\n10-Yâ Bâsıt
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, hallisnâ minen nâr</item>
+        <item>            1- Yâ âsıme men ista\'semeh
+\n2 - Yâ Râhime men isterhameh
+\n3 - Yâ nâsıra men istansarah
+\n4 - Yâ hâfiza men istahfezah
+\n5 - Yâ mükrime men istekrameh
+\n6 - Yâ mürşide men isterşedeh
+\n7 - Yâ muîne men isteâneh
+\n8- Yâ muğıse men isteğâseh
+\n9- Yâ sarîha men istasrahah
+\n10-Yâ gâfira men istağferah
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, hallisnâ minen nâr.</item>
+        <item>            1- Yâ Kerîmessafh
+\n2 - Yâ Azimel men
+\n3 - Yâ kesîrel hayr
+\n4 - Yâ kadîmel fadl
+\n5 - Yâ Lâtîfessun\'
+\n6 - Yâ Dâimel lûtf
+\n7 - Yâ Nâfisel kerb
+\n8- Yâ Kâşifeddur
+\n9- Yâ Mâlikel mülk
+\n10-Yâ Kâdiyyen bil hak
+\n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, ecirnâ minen nâr.</item>
+        <item>            1- Yâ Azîzen lâ yüzâm
+\n2 - Yâ Lâtifen lâ yürâm
+\n3 - Yâ Rakiben lâ yenâm
+\n4 - Yâ Kâimen lâ yefût
+\n5 - Yâ Hayyen lâ yemût
+\n6 - Yâ Meliken lâ yezûl
+\n7 - Yâ Bâkıyen lâ yefnâ
+\n8- Yâ Âlimen lâ yechel
+\n9- Yâ Sameden lâ yut\'am
+\n10-Yâ Kaviyyen lâ yüd\'af
+\n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, ecirnâ minen nâr.</item>
+        <item>Ve es\'elüke, bi esmâike:
+\n1- Yâ Vâhid
+\n2 - Yâ Vâcid
+\n3 - Yâ Şâhid
+\n4 - Yâ Mâcid
+\n5 - Yâ Râşid
+\n6 - Yâ Bâis
+\n7 - Yâ Vâris
+\n8- Yâ Dârr
+\n9- Yâ Nâfi
+\n10-Yâ Hâdi
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, ecirnâ minen nâr.</item>
+        <item>            1- Yâ a\'zamu min külli Azîm
+\n2 - Yâ ekremü min külli Kerîm
+\n3 - Yâ erhamü min külli Rahîm
+\n4 - Yâ ahkemu min külli Hakîm
+\n5 - Yâ a\'lemü min külli Alîm
+\n6 - Yâ akderu min külli Kadîr
+\n7 - Yâ ekberu min külli Kebîr
+\n8- Yâ ecellü min külli Celîl
+\n9- Yâ eazzü min külli Azîz
+\n10-Yâ eltafü min külli Lâtif
+\n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, ecirnâ minen nâr.</item>
+        <item>            1- Yâ men Hüve fî ahdihî Vefiy
+\n2 - Yâ men Hüve fî vefâihî Kaviy
+\n3 - Yâ men Hüve fî kuvvetihî Aliy
+\n4 - Yâ men Hüve fî ulûvvihî Karîb
+\n5 - Yâ men Hüve fî kurbihî Lâtîf
+\n6 - Yâ men Hüve fî lûtfihî Şerîf
+\n7 - Yâ men Hüve fî şerafihî Azîz
+\n8- Yâ men Hüve fî izzetihî Azîm
+\n9- Yâ men Hüve fi azametihî Mecîd
+\n10-Yâ men Hüve fî mecdihî Hamîd
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, ecirnâ minen nâr.</item>
+        <item>            1- Yâ men Hüve külli şey\'in hâdiün leh
+\n2 - Yâ men Hüve külli şey\'in kâinün leh
+\n3 - Yâ men Hüve külli şey\'in mevcûdün leh
+\n4 - Yâ men Hüve külli şey\'in münîbün leh
+\n5 - Yâ men Hüve külli şey\'in hâifün minh
+\n6 - Yâ men Hüve külli şey\'in müsebbihun leh
+\n7 - Yâ men Hüve külli şey\'in kâimün bih
+\n8- Yâ men Hüve külli şey\'in hâşiun leh
+\n9- Yâ men Hüve külli şey\'in sâirun ileyh
+\n10-Yâ men Hüve külli şey\'in hâlikün illâ vecheh
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, ecirnâ minen nâr.</item>
+        <item>            Ve es\'elüke, bi esmâike:
+\n1- Yâ Kâfî
+\n2 - Yâ Şâfî
+\n3 - Yâ Vâfî
+\n4 - Yâ Muâfî
+\n5 - Yâ Alî
+\n6 - Yâ Dâî
+\n7 - Yâ Râdî
+\n8- Yâ Kâdî
+\n9- Yâ Bâkî
+\n10-Yâ Hâdî
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, ecirnâ minen nâr.</item>
+        <item>            1- Yâ men lâ meferre illâ ileyh
+\n2 - Yâ men lâ mefzaa illâ ileyh
+\n3 - Yâ men lâ melcee illah ileyh
+\n4 - Yâ men lâ yütevekkelü illâ aleyh
+\n5 - Yâ men lâ maksada illâ ileyh
+\n6 - Yâ men lâ mencee illâ ileyh
+\n7 - Yâ men lâ yürğabü illâ ileyh
+\n8- Yâ men lâ yü\'bedü illâ ileyh
+\n9- Yâ men lâ yüsteânü illâ minh
+\n10-Yâ men lâ havle velâ kuvvete illâ bih
+\n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, ecirnâ minen nâr.</item>
+        <item>            1- Yâ hayral merhûbîn
+\n2 - Yâ hayral matlûbîn
+\n3 - Yâ hayral merğubîn
+\n4 - Yâ hayral mes\'ûlîn
+\n5 - Yâ hayral maksûdîn
+\n6 - Yâ hayral mezkûrîn
+\n7 - Yâ hayral meşkûrîn
+\n8- Yâ hayral mahbûbîn
+\n9- Yâ hayral münzilîn
+\n10-Yâ hayral müste\'nisîn
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, ecirnâ minen nâr.</item>
+        <item>            1- Yâ men Hüve halaka fesevvâ
+\n2 - Yâ men Hüve kaddera fehedâ
+\n3 - Yâ men Hüve yekşifül belvâ
+\n4 - Yâ men Hüve yesmeunnecvâ
+\n5 - Yâ men Hüve yünkızül ğarka
+\n6 - Yâ men Hüve yüncil helkâ
+\n7 - Yâ men Hüve yeşfil merdâ
+\n8- Yâ men Hüve emâte ve ahyâ
+\n9- Yâ men Hüve edhake ve ebkâ
+\n10-Yâ men Hüve edalle ve ehdâ
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, ecirnâ minen nâr.</item>
+        <item>Ve es\'elüke bi esmâike:
+\n1- Yâ Gâfir
+\n2 - Yâ Sâtir
+\n3 - Yâ Kâhir
+\n4 - Yâ Kâdir
+\n5 - Yâ Nâzir
+\n6 - Yâ Fâtir
+\n7 - Yâ Şâkir
+\n8- Yâ Zâkir
+\n9- Yâ Nâsir
+\n10-Yâ Câbir
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, ecirnâ minen nâr.</item>
+        <item>            1- Yâ men Hüve fil berri vel bahri sebîlüh
+\n2 - Yâ men Hüve fil âfâki âyâtüh
+\n3 - Yâ men Hüve fil âyâti bürhânüh
+\n4 - Yâ men Hüve fil memâti kudretuh
+\n5 - Yâ men Hüve fil kubûri izzetüh
+\n6 - Yâ men Hüve fil kıyâmeti milketüh
+\n7 - Yâ men Hüve fil hisâbi heybetuh
+\n8- Yâ men Hüve fil mîzani kadâüh
+\n9- Yâ men Hüve fil Cenneti rahmetüh
+\n10-Yâ men Hüve finnâri azâbüh
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, ecirnâ minen nâr.</item>
+        <item>            1- Yâ men Hüve ileyhi yehrebül hâifûn
+\n2 - Yâ men Hüve ileyhi yefzeul müznibûn
+\n3 - Yâ men Hüve ileyhi yaksidül münîbûn
+\n4 - Yâ men Hüve ileyhi yelceül âsûn
+\n5 - Yâ men Hüve ileyhi yerğabüzzâhidûn
+\n6 - Yâ men Hüve fîhi yetmaul hâtiûn
+\n7 - Yâ men Hüve yeste\'nisü bihil mürîdûn
+\n8- Yâ men Hüve yeftehiru bihil muhsinûn
+\n9- Yâ men Hüve aleyhi yetevekkelül mütevekkilûn
+\n10-Yâ men Hüve yeskünü bihil mûkınûn
+\n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, ecirnâ minen nâr.</item>
+        <item>            1- Yâ akrabü min külli karîb
+\n2 - Yâ ehabbü min külli habîb
+\n3 - Yâ a\'zamü min külli azîm
+\n4 - Yâ eazzü min külli azîz
+\n5 - Yâ akvâ min külli kaviy
+\n6 - Yâ ağnâ min külli ğaniy
+\n7 - Yâ ecvedü min külli cevâd
+\n8- Yâ er\'afü min külli raûf
+\n9- Yâ erhamü min külli rahîm
+\n10-Yâ ecellü min külli celîl
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, ecirnâ minen nâr.</item>
+        <item>            Ve es\'elüke, bi esmâike:
+\n1- Yâ Karîb
+\n2 - Yâ Rakîb
+\n3 - Yâ Habîb
+\n4 - Yâ Mücîb
+\n5 - Yâ Hasîb
+\n6 - Yâ Tabîb
+\n7 - Yâ Bâsir
+\n8- Yâ Habîr
+\n9- Yâ Münîr
+\n10-Yâ Mübîn
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, ecirnâ minen nâr.</item>
+        <item>            1- Yâ Ğaliben gayra mağlûb
+\n2 - Yâ Sânian gayra masnû
+\n3 - Yâ Hâlikan gayra mahlûk
+\n4 - Yâ Mâliken gayra memlûk
+\n5 - Yâ Kâhiren gayra makhûr
+\n6 - Yâ Râfian gayra merfû
+\n7 - Yâ Hâfizan gayra mahfûz
+\n8- Yâ Nâsiran gayra mansûr
+\n9- Yâ Şâhidan gayra ğaib
+\n10-Yâ Karîben gayra baîd
+\n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, ecirnâ minen nâr.</item>
+        <item>            1- Yâ Nûrannûr
+\n2 - Yâ Münevvirannûr
+\n3 - Yâ Musavvirannûr
+\n4 - Yâ Hâlikannûr
+\n5 - Yâ Mukaddirannûr
+\n6 - Yâ Müdebbirannûr
+\n7 - Yâ Nûran kable külli Nûr
+\n8- Yâ Nûran ba\'de külli Nûr
+\n9- Yâ Nûranfevka külli Nûr
+\n10-Yâ Nûran leyse mislehû Nûr
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, ecirnâ minen nâr.</item>
+        <item>1- Yâ men atâuhû şerîf
+\n2 - Yâ men fi\'lühû lâtîf
+\n3 - Yâ men lûtfuhu mukîm
+\n4 - Yâ men ihsâhühû kadîm
+\n5 - Yâ men kavlühû hakk
+\n6 - Yâ men va\'dühû sıdk
+\n7 - Yâ men afvühû fadl
+\n8- Yâ men azâbühû adl
+\n9- Yâ men zikruhû hulv
+\n10-Yâ men ünsühû lezîz
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, ecirnâ minen nâr.</item>
+        <item>Ve es\'elüke, bi esmâike:
+\n1- Yâ Münevvil
+\n2 - Yâ Mufassıl
+\n3 - Yâ Mübeddil
+\n4 - Yâ Müsehhil
+\n5 - Yâ Müzellil
+\n6 - Yâ Münezzil
+\n7 - Yâ Muhavvil
+\n8- Yâ Mücemmil
+\n9- Yâ Mükemmil
+\n10-Yâ Mufaddıl
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, ecirnâ minen nâr.</item>
+        <item>1- Yâ men yerâ ve lâ yürâ
+\n2 - Yâ men yahluku ve lâ yuhlaâk
+\n3 - Yâ men yehdi ve lâ yühdâ
+\n4 - Yâ men yuhyi ve lâ yühyâ
+\n5 - Yâ men yut\'imu ve lâ yut\'am
+\n6 - Yâ men yücîru ve lâ yücâr
+\n7 - Yâ men yakdî ve lâ yükdâ aleyh
+\n8- Yâ men yahkumu ve lâ yuhkamu aleyh
+\n9- Yâ men lem yelid ve lem yûled
+\n10-Ve lem yekül lehû küfüven ehad
+ \n\n
+Sübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne, ecirnâ minen nâr.</item>
+        <item>            1 Yâ Ni\'me\'l-habîb \n2  Yâ Ni\'me\'t-tabîb \n3  Yâ Ni\'me\'l-hasîb \n4  Yâ Ni\'me\'l-karîb \n5  Yâ Ni\'me\'r-rakîb \n6  Yâ Ni\'me\'l-mucîb \n7  Yâ Ni\'me\'l-enîs \n8 Yâ Ni\'me\'l-vekîl \n9 Yâ Ni\'me\'l-mevlâ \n10 Yâ Ni\'me\'n-nasîr
+      \n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne ecirnâ mine\'n-nâr.</item>
+        <item>            \n1 Yâ Sürûra\'l-\'ârifîn \n2  Yâ Enîse\'l-mürîdîn \n3  Yâ Muğîşe\'l-müştâkîn \n4  Yâ Habîbe\'t-tevvâbîn \n5  Yâ Râzika\'l-mükillîn \n6  Yâ Recâe\'l-müznibîn \n7  Yâ Kâşife\'l-mekrûbîn \n8 Yâ Müneffisen \'ani\'l-mağmûmîn \n9 Yâ Müferricen \'ani\'l-mahzûnîn \n10 Yâ İlâhe\'l-evvelîne ve\'l-âhirîn \n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne ecirnâ mine\'n-nâr.</item>
+        <item>\n1 Yâ Rabbe\'l-cenneti ve\'n-nâr \n2  Yâ Rabbe\'n-nebiyyîne ve\'l-ahyâr \n3  Yâ Rabbe\'s-sıddîkîne ve\'l-ebrâr \n4  Yâ Rabbe\'s-siğâri ve\'l-kibâr \n5  Yâ Rabbe\'l-hubûbi ve\'l-eşmâr \n6  Yâ Rabbe\'l-enhâri ve\'l-eşcâr \n7  Yâ Rabbe\'s-sahârâ ve\'l-kıfâr \n8 Yâ Rabbe\'l-\'abîdi ve\'l-ahrâr \n9 Yâ Rabbe\'l-i\'lâni ve\'l-isrâr \n10 Yâ Rabbe\'l-leyli ve\'n-nehâr \n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne ecirnâ mine\'n-nâr.</item>
+        <item>            \n1 Yâ Men lahika fî külli şey\'in \'ilmüh \n2  Yâ Men nefeze bi külli şey\'in besaruh \n3  Yâ Men beleğat ilâ külli şey\'in kudratüh \n4  Yâ Men lâ yuhsı\'l-\'ibâdü na\'mâeh \n5  Yâ Men lâ teblüğu\'l-halâiku şükrah \n6  Yâ Men lâ tüdrikü\'l-efhâmü celâleh \n7  Yâ Men lâ tenâlü\'l-evhâmü künheh \n8 Yâ Meni\'l-\'azâmetü ve\'l-kibriyâü ridâüh \n9 Yâ Meni\'l-heybetü ve\'s-sültânü behâüh \n10 Yâ Men te\'azzeze bi\'l-\'izzi bekâüh
+      \n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne ecirnâ mine\'n-nâr.</item>
+        <item>\n1 Yâ Men lehü\'l-meşelü\'l-a\'lâ \n2  Yâ Men lehü\'l-sıfâtü\'l-\'ulâ \n3  Yâ Men lehü\'l-âhiratü ve\'l-ûlâ \n4  Yâ Men lehü\'l-cennetü\'l-me\'vâ \n5  Yâ Men lehü\'n-nâru ve\'l-lezâ \n6  Yâ Men lehü\'l-âyâtü\'l-kübrâ \n7  Yâ Men lehü\'l-esmâü\'l-hüsnâ \n8 Yâ Men lehü\'l-hükmü ve\'l-kadâ \n9 Yâ Men lehü\'s-semâvâtü\'l-\'ulâ \n10 Yâ Men lehü\'l-\'arşü ve\'s-serâ \n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne ecirnâ mine\'n-nâr.
+</item>
+        <item>Ve es\'elüke biesmâike \n1 Yâ\'Afüvv \n2  Yâ Ğafûr \n3  Yâ Vedûd \n4  Yâ Şekûr \n5  Yâ Sabûr \n6  Yâ Rauf \n7  Yâ\'Atûf \n8 Yâ Kuddûs \n9 Yâ Hayy \n10 Yâ Kayyûm \n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne ecirnâ mine\'n-nâr.
+</item>
+        <item>            \n1 Yâ Men hüve fı\'s-semâi \'azametüh \n2  Yâ Men hüve fi\'l-ardi âyâtüh \n3  Yâ Men hüve fî külli şey\'in delâilüh \n4  Yâ Men hüve fi\'l-bihâri \'acâibüh \n5  Yâ Men yebdeü\'l-halka şürame yü\'îdüh \n6  Yâ Men hüve fi\'l-cibâli hazâinüh \n7  Yâ Men ahsene külle şey\'in halekah \n8 Yâ Men ileyhi yürce\'u\'l-emrü küllüh \n9 Yâ Men zahera fî külli şey\'in lütfülı \n10 Yâ Men yü\'arrifü\'l-halâika kudrateh
+      \n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne ecirnâ mine\'n-nâr</item>
+        <item>            \n1 Yâ Habîbe men lâ habîbe leh \n2  Yâ Tabîbe men lâ tabîbe leh \n3  Yâ Mücîbe men lâ mücîbe leh \n4  Yâ Şefîka men lâ şefîka leh \n5  Yâ Rafîka men lâ rafîka leh \n6  Yâ Şefî\'a men lâ şefî\'a leh \n7  Yâ Müğîşe men lâ müğîşe leh \n8 Yâ Delîle men lâ delîle leh \n9 Yâ Kaide men lâ kaide leh \n10 Yâ Râhıme men lâ râhıme leh\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne ecirnâ mine\'n-nâr.</item>
+        <item>            \n1 Yâ Kâfiye meni\'stekfâh \n2  Yâ Hâdiye meni\'stehdâh \n3  Yâ Kâliye meni\'steklâh \n4  Yâ Dâ\'iye meni\'sted\'âh \n5  Yâ Şâfıye meni\'steşfâh \n6  Yâ Kâdiye meni\'stakdâh \n7  Yâ Muğniye meni\'steğnâh \n8 Yâ Mûfîye meni\'stevfâh \n9 Yâ Mükavviye meni\'stakvâh \n10 Yâ Veliyye meni\'stevlâh \n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne ecirnâ mine\'n-nâr.</item>
+        <item>Ve es\'elüke biesmâike \n1 Yâ Evvel \n2  Yâ Âhir \n3  Yâ Zahir \n4  Yâ Bâtın \n5  Yâ Halik \n6  Yâ Râzik \n7  Yâ Sâdık \n8 Yâ Sabık \n9 Yâ Saik \n10 Yâ Fâlik \n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne ecirnâ mine\'n-nâr.</item>
+        <item>            \n1 Yâ Men yükallibü\'l-leyle ve\'n-nehâr \n2  Yâ Men Halaka\'z-zulümâti ve\'n-nûr \n3  Yâ Men ce\'ale\'z-zılle ve\'l-harur \n4  Yâ Men sehhara\'s-semse ve\'l-kamer \n5  Yâ Men haleka\'l-mevte ve\'l-hayah \n6  Yâ Men lehü\'l-halku ve\'l-emr \n7  Yâ Men lem yettehiz sâhibeten velâ veledâ \n8 Yâ Men lem yekûn lehû şerikim fi\'l-mülk \n9 Yâ Men lem yekûn lehû veliyyün mine\'z-züll \n10 Yâ men lehü\'l-havlü ve\'l-kuvveh \n\nSübhâneke yâ lâ ilahe illâ enteİ-emâ-ne\'l-emâne neccinâ mine\'n-nâr.</item>
+        <item>1 Yâ Men ya\'lemü mürâde\'l-mürîdîn\n2 Yâ Men yemlikü havaice\'s-sâilîn\n3 Yâ Men yesme\'u enîne\'l-valihîn\n4 Yâ Men yerâ bükâe\'l-hâifîn\n5 Yâ Men ya\'lemu damîra\'s-sâmitîn\n6 Yâ Men yerâ nedeme\'n-nâdimîn\n7 Yâ Men yakbelü \'uzre\'t-tâibîn\n8 Yâ Men lâ yüslihu \'amele\'l-müfsidîn\n9 Yâ Men lâ yüdî\'u ecra\'l-muhsinîn\n10 Yâ Men lâ yeb\'udü an kulûbi\'l-\'arifîn\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne neccinâ mine\'n-nâr.</item>
+        <item>            1 Yâ Dâime\'l-bekâ\n2 Yâ Ğafira\'l-hatâ\n3 Yâ Sâmi\'e\'d-düâ\n4 Yâ Vâsi\'a\'l-\'atâ\n5 Yâ Râfı\'a\'s-semâ\n6 Yâ Kâşife\'l-belâ\n7 Yâ \'Azîme\'s-senâ\n8 Yâ Kadîme\'s-senâ\n9 Yâ Keşira\'l-vefa\n10 Yâ Şerîfe\'l-cezâ\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne neccinâ mine\'n-nâr.</item>
+        <item>            Ve es\'elüke biesmâike \n1 Yâ Ğaffâr\n2 Yâ Settâr\n3 Yâ Kahhâr\n4 Yâ Cebbar\n5 Yâ Sabbâr\n6 Yâ Razzâk\n7 Yâ Fettâh\n8 Yâ \'Allâm\n9 Yâ Vehhâb\n10 Yâ Tevvâb\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne neccinâ mine\'n-nâr.</item>
+        <item>            1 Yâ Men halekanî ve sevvânî\n2 Yâ Men razekanî ve rabbânî\n3 Yâ Men et\'amenî ve sekânî\n4 Yâ Men karrabenî ve ednânî\n5 Yâ Men \'asamenî ve kefânî\n6 Yâ Men hafızanî ve kelânî\n7 Yâ Men veffekanî ve hedânî\n8 Yâ Men e\'azzenî ve ağnânî\n9 Yâ Men emâtenî ve ahyânî\n10 Yâ Men ânesenî ve âvânî\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne neccinâ mine\'n-nâr.</item>
+        <item>            1 Yâ Men yühikku\'l-hakka bikelimâtih\n2 Yâ Men lâ mü\'akkibe lihukmih\n3 Yâ Men lâ radde likadâih\n4 Yâ Men yehûlü beyne\'l-mer\'i ve kalbih\n5 Yâ Men yakbelü\'t-tevbete an \'ibâdih\n6 Yâ Men lâ tenfe\'u\'ş-şefa\'atü illâ biiznih\n7 Yâ Meni\'s-semâvâtü matviyyâtün biyemînih\n8 Yâ Men hüve a\'lemü bi men dalle \'an sebîlih\n9 Yâ Men yüsebbihu\'r-ra\'dü bihâmdi-hi ve\'l-melâiketü min hîfetih\n10 Yâ Men yürsilü\'r-riyâha büşran beyne yedey rahmetih\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne neccinâ mine\'n-nâr.</item>
+        <item>            1 Yâ Men ce\'ale\'l-arda mihâdâ\n2 Yâ Men ce\'ale\'l-cibâle evtâdâ\n3 Yâ Men ce\'ale\'l-şemse sirâcâ\n4 Yâ Men ce\'ale\'l-kamera nûrâ\n5 Yâ Men ce\'ale\'l-leyle libâsa\n6 Yâ Men ce\'ale\'n-nehâra me\'âşâ\n7 Yâ Men ce\'ale\'n-nevme sübâtâ\n8 Yâ Men ce\'ale\'s-semâe binâa\n9 Yâ Men ce\'ale\'l-eşyâe ezvâcâ\n10 Yâ Men ce\'ale\'n-nâra mirsâdâ\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne neccinâ mine\'n-nâr.</item>
+        <item>Ve es\'elüke biesmâike 1 Yâ Şefî\'\n2 Yâ Semî\'\n3 Yâ Rafı\'\n4 Yâ Meni`\n5 Yâ Bedi`\n6 Yâ Serî\'\n7 Yâ Beşîr\n8 Yâ Nezîr\n9 Yâ Kadîr\n10 Yâ Muktedir\n\nSübhâneke yâ lâ ilahe illâ ente\'l-em ne\'l-emâne neccinâ mine\'n-nâr.</item>
+        <item>            1 Yâ Hayyü kable külli hayy\n2 Yâ Hayyü ba\'de külli hayy\n3 Yâ Hayyü\'llezî lâ yüşbihühû şey\'\n4 Yâ Hayyü\'llezî leyse kemişlihî hayy\n5 Yâ Hayyü\'llezî lâ yüşârikühû hayy\n6 Yâ Hayyü\'llezî lâ yahtâcü ilâ hayy\n7 Yâ Hayyü\'llezî yümîtü külle hayy\n8 Yâ Hayyü\'llezî yerzüku külle hayy\n9 Yâ Hayyü\'llezî yühyi\'l-mevtâ\n10 Yâ Hayyü\'llezî lâ yemût\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne neccinâ mine\'n-nâr.</item>
+        <item>            1 Yâ Men lehû zikrun lâ yünsâ\n2 Yâ Men lehû nurun lâ yutfâ\n3 Yâ Men lehû şenâün lâ yuhsâ\n4 Yâ Men lehû nü\'ûtün lâ tüğayyer\n5 Yâ Men lehû ni\'amün lâ tü\'add\n6 Yâ Men lehû mülkün lâ yezûl\n7 Yâ Men lehû celâlün lâ yükeyyef\n8 Yâ Men lehû kadâün lâ yüradd\n9 Yâ Men lehû sıfâtün lâ tübeddel\n10 Yâ Men lehû kemâlün lâ yüdrak\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne neccinâ mine\'n-nâr.</item>
+        <item>1 Yâ Rabbe\'I-\'âlemîn\n2 Yâ Mâlike yevmi\'d-dîn\n3 Yâ Men yühibbü\'s-sâbirîn\n4 Yâ Men yuhibbü\'t-tevvâbîn\n5 Yâ Men yuhibbü\'l-mütetahhirîn\n6 Yâ Men yuhibbü\'l-muhsinîn\n7 Yâ Men hüve hayru\'n-nâsirîn\n8 Yâ Men hüve hayru\'l-fasilîn\n9 Yâ Men hüve hayru\'ş-şâkirîn\n10 Yâ men hüve a\'lemü bi\'l-müfsidîn\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne neccinâ mine\'n-nâr.</item>
+        <item>            Ve es\'elüke biesmâike \n1 Yâ Mübdi\n2 Yâ Mu\'îd\n3 Yâ Hafız\n4 Yâ Mühît\n5 Yâ Hamîd\n6 Yâ Mecîd\n7 Yâ Mükît\n8 Yâ Müğîs\n9 Yâ Mü\'îzz\n10 Yâ Müzill\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne neccinâ mine\'n-nâr.</item>
+        <item> 1 Yâ Men hüve Ehadün bilâ didd\n2 Yâ Men hüve Ferdün bilâ nidd\n3 Yâ Men hüve Samedün bilâ \'ayb\n4 Yâ Men hüve Vitrun bilâ şef\n5 Yâ Men hüve Rabbün bilâ vezîr\n6 Yâ Men hüve Ğaniyyün bilâ fakr\n7 Yâ Men hüve Sültânün bilâ \'azl\n8 Yâ Men hüve Melîkün bilâ \'acz\n9 Yâ Men hüve Mevcudun bilâ mişl\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne neccinâ mine\'n-nâr.</item>
+        <item> 1 Yâ Men hüve zikruhû şerafün li\'z-zâkirîn\n2 Yâ Men hüve şükruhû fevzün li\'ş-şâkirîn\n3 Yâ Men hüve hamdühû fahrun li\'l-hâmidîn\n4 Yâ Men hüve tâ\'atühû necâtün li\'l-mütî\'în\n5 Yâ Men hüve bâbühü meftûhun li\'t-tâlibîn\n6 Yâ Men hüve sebilühû vâdihun li\'l-mü\'minîn\n7 Yâ men hüve âyâtühû bürhânün Ii\'n-nâzirîn\n8 Yâ men hüve kitâbühû tezkiratün li\'l-mûkınîn\n9 Yâ men hüve \'afvühü melceün li\'l-müznibîn\n10 Yâ men hüve rahmetühû karîbûn li\'l-muhsinîn\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne neccinâ mine\'n-nâr.</item>
+        <item> 1 Yâ Men tebâreke\'smüh\n2 Yâ Men te\'âlâ ceddüh\n3 Yâ Men celle şenâüh\n4 Yâ Men lâ ilahe ğayruh\n3 Yâ Men tekaddeset esmâüh\n6 Yâ Men yedûmü bekâüh\n7 Yâ Meni\'l-\'azametü behâüh\n8 Yâ Meni\'l-kibriyâü ndâüh\n9 Yâ Men lâ yühsâ âlâüh\n10 Yâ Men lâ yü\'addü na\'mâüh\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne neccinâ mine\'n-nâr.</item>
+        <item>            Ve es\'elüke biesmâike \n1 Yâ Mü\'în\n2 Yâ Mübîn\n3 Yâ Emîn\n4 Yâ Mekîn\n5 Yâ Metîn\n6 Yâ Şedîd\n7 Yâ Şehîd\n8 Yâ Raşîd\n9 Yâ Hamîd\n10 Yâ Mecîd\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-nel-emâne neccinâ mine\'n-nâr.</item>
+        <item> 1 Yâ Ze\'l-arşi\'l-mecîd\n2 Yâ Ze\'l-kavli\'s-sedîd\n3 Yâ Ze\'l-fadli\'r-raşîd\n4 Yâ Ze\'l-batşi\'ş-şedîd\n5 Yâ Ze\'l-va\'di ve\'l-va\'îd\n6 Yâ Karîben gayra ba\'îd\n7 Yâ Men hüve\'l-veliyyü\'l-hamîd\n8 Yâ Men hüve \'alâ külli şey\'in şehîd\n9 Yâ Men hüve leyse bizallâmîn li\'l-\'abîd\n10 Yâ men hüve akrabü ileyhi min habli\'l-verîd\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne neccinâ mine\'n-nâr.</item>
+        <item>            1 Yâ Men lâ şerîke lehû velâ vezîr\n2 Yâ Men lâ şebîhe lehû velâ nezîr\n3 Yâ Hâlika\'ş-şemsi ve\'l-kameri\'l-münîr\n4 Yâ Müğniye\'l-bâisi\'l-fakîr\n3 Yâ Râzika\'t-tıfli\'s-sağîr\n6 Yâ Râhime\'ş-şeyhi\'l-kebir\n7 Yâ \'Ismete\'l-hâifi\'l-müstecîr\n8 Yâ Men hüve bi\'ibâdihî basîr\n9 Yâ Men hüve bihavâyici\'l-\'ibâdi habîr\n10 Yâ Men hüve \'alâ külli şey\'in kadîr\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne neccinâ mine\'n-nâr.</item>
+        <item> 1 Yâ Ze\'l-cûdi ve\'n-ni\'âm\n2 Yâ Ze\'l-fadli ve\'l-keram\n3 Yâ Ze\'l-be\'si ve\'n-nikam\n4 Yâ Hâlika\'l-levhi ve\'l-kalem \n5 Yâ Bârie\'z-zerri ve\'n-nesem\n6 Yâ Mülhime\'l-\'arabi ve\'l-\'acem \n7 Yâ Kâşife\'drdurri ve\'l-elem\n8 Yâ \'Alime\'s-sirri ve\'l-himem\n9 Yâ Men lehü\'l-beytü ve\'l-haram\n10 Yâ Men yahlüku\'l-eşyâe mine\'l-\'adem\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne neccinâ mine\'n-nâr.</item>
+        <item>            Ve es\'elüke biesmâike \n1 Yâ \'Adil\n2 Yâ Kabil\n3 Yâ Fâdil\n4 YâFâ\'il\n5 Yâ Kâfıl\n6 Yâ Câ\'il\n7 Yâ Kâmil\n8 Yâ Fâtır\n9 Yâ Tâlib\n10 Yâ Matlûb\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne neccinâ mine\'n-nâr.</item>
+        <item> 1 Yâ Men en\'ame bihavlih\n2 Yâ Men ekrame bitavlih\n3 Yâ Men \'âde bilütfıh\n4 Yâ Men te\'azzeze bikudratih\n3 Yâ Men kaddera bihikmetih\n6 Yâ Men hakeme bitedbîrih\n7 Yâ Men debbera bi\'ilmih\n8 Yâ Men tecâveze bihılmih\n9 Yâ Men denâ fî \'ulüvvih\n10 Yâ Men \'alâ fî dünüvvih\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne neccinâ mine\'n-nâr.</item>
+        <item> 1 Yâ Men yahlüku ma yeşâ \n2 Yâ Men yef\'alü ma yeşâ\n3 Yâ Men yehdi men yeşâ\n4 Yâ Men yudillü men yeşâ\n5 Yâ Men yağfiru limen yeşâ\n6 Yâ Men yü\'azzibü men yeşâ\n7 Ya Men yetûbü alâ men yeşâ\n8 Yâ Men yüsavviru fı\'l-erhâmi keyfe yeşâ\n9 Yâ Men yezîdü fi\'l-halki mâ yeşâ\n10 Yâ Men yahtassu bi rahmetihî men yeşâ\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne neccinâ mine\'n-nâr.</item>
+        <item>            1 Yâ Men lem yettehiz sahibeten velâ veledâ\n2 Yâ Men la yüşrikü fî hukmihî ehadâ\n3 Yâ Men ce\'ale li külli şey\'in kadrâ\n4 Yâ Men lem yezel rahîmâ\n5 Yâ Câ\'ile\'l-melâiketi rusülâ\n6 Yâ Men ce\'ale fı\'s-semâi bürûcâ\n7 Yâ Men ce\'ale\'l-arda karâra\n8 Yâ Men ce\'ale mine\'l-mâi beşerâ\n9 Yâ Men ahsa külle şey\'in \'adedâ\n10 Yâ Men ehâta bi külli şey\'in \'ilmâ\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne neccinâ mine\'n-nâr.</item>
+        <item>Ve es\'elüke biesmâike \n1 Yâ Ferd\n2 Yâ Vitr\n3 Yâ Ehad\n4 Yâ Samed\n5 Yâ Emced\n6 Yâ E\'azz\n7 Yâ Eceli\n8 Yâ Ehakk\n9 Yâ Eberr\n10 Yâ Ebed\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-nel-emâne neccinâ mine\'n-nâr.</item>
+        <item> 1 Yâ Ma\'rûfe men \'arafeh\n2 Yâ Ma\'bûde men \'abedeh\n3 Yâ Meşkûre men şekerah\n4 Yâ Mezkûre men zekerah \n5 Yâ Mahmude men hamideh\n6 Yâ Mevcûde men talebeh\n7 Yâ Mevsûfe men vahhadeh \n8 Yâ Mahbûbe men ehabbeh\n9 Yâ Merğûbe men erâdeh\n10 Yâ Maksûde men enâbe ileyh\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne neccinâ mine\'n-nâr.</item>
+        <item> 1 Yâ Men lâ mülke illâ mülküh\n2 Yâ Men lâ yuhsi\'l-\'ibadü şenaeh\n3 Yâ Men lâ tesıfü\'l-halâiku celâleh\n4 Yâ Men lâ yüdrikü\'l-ebsâru kemâleh\n5 Yâ Men lâ yeblüğu\'l-efhâmü sıfâtih\n6 Yâ Men lâ yenâlü\'l-efkâru kibriyâeh\n7 Yâ Men lâ yuhsinü\'l-insânü nü\'ûteh\n8 Yâ Men lâ yeruddü\'l-\'ibâdü kadâeh\n9 Yâ Men zahera fî külli şey\'in âyâtüh\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne neccinâ mine\'n-nâr.</item>
+        <item> 1 Yâ Habîbe\'l-bekkâîn\n2 Yâ Senede\'l-mütevekkilîn\n3 Yâ Hâdiye\'l-mudillîn\n4 Yâ Veliyye\'l-mü\'minîn\n5 Yâ Enîse\'s-zâkirîn\n6 Yâ Akdera\'l-kâdirîn\n7 Yâ Ebsara\'n-nâzırîn\n8 Yâ Aleme\'l-\'âlimîn\n9 Yâ Mefze\'a\'l-melhûfîn\n10 Yâ Ensara\'n-nâsirîn\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne neccinâ mine\'n-nâr</item>
+        <item>Ve es\'elüke biesmâike \n1 Yâ Mükrim\n2 Yâ Mü\'azzim\n3 Yâ Müna\'im \n4 Ya Mü\'tî\n5 Yâ Müğnî\n6 Yâ Mühyî\n7 Yâ Mübdî\n8 Yâ Mürdî\n9 YâMüncî\n10 Yâ Muhsin\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne neccinâ mine\'n-nâr</item>
+        <item>            1 Yâ Kâfiye külli şey\n2 Yâ Kaimen \'alâ külli şey\n3 Yâ Men lâ yüşbihühû şey\n4 Yâ Men lâ yezîdü fî mülkihî şey\n3 Yâ Men lâ yenkusu min hazainihî şey\n6 Yâ Men lâ yahfâ \'aleyhi şey\n7 Yâ Men leyse kemişlihî şey\n8 Yâ Men biyedihî mekâlîdü külli şey\n9 Yâ Men vesi\'at rahmetühû külle şey\n10 Yâ Men yebkâ ve yefnâ küllü şey\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne neccinâ mine\'n-nâr.</item>
+        <item>            1 Yâ Men lâ ya\'lemü\'l-ğaybe illâ hû\n2 Yâ Men lâ yasrifü\'s-sûe illâ hû\n3 Yâ Men lâ yüdebbiru\'l-emra illâ hû\n4 Yâ Men lâ yağfiru\'z-zünûbe illâ hû\n5 Yâ Men lâ yükallibü\'l-kalbe illâ hû\n6 Yâ Men lâ yahlüku\'l-halka illâ hû\n7 Yâ Men lâ yütimmü\'n-ni\'mete illâ hû\n8 Yâ Men lâ yünezzilü\'l-ğayşe illâ hû\n9 Yâ Men lâ yuhyi\'l-mevtâ illâ hû\n10 Yâ Men lâ yuğni \'ale\'t-tahkîki illâ hû\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne neccinâ mine\'n-nâr.</item>
+        <item>            Ve es\'elüke biesmâike \n1 Yâ Kâşif\n2 Yâ Fâric\n3 Yâ Fâtih\n4 Yâ Nâsir\n5 Yâ Dâmin\n6 Yâ Âmir\n7 Yâ Nâhi\n8 Yâ Raca\n9 Yâ Mürtecâ\n10 Yâ \'Azîme\'r-racâ\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne hallisnâ mine\'n-nâr.</item>
+        <item>            1 Yâ Mü\'îne\'d-du\'afâ\n2 Yâ Kenze\'l-fükarâ\n3 Yâ Sâhibe\'l-ğurabâ\n4 Yâ Nâsira\'l-evliyâ\n5 Yâ Kâhira\'l-a\'dâ\n6 Yâ Râfia\'s-semâ\n7 Yâ Kâşife\'l-belâ\n8 Yâ Enîse\'l-evliyâ\n9 Yâ Habîbe\'l-etkıyâ\n10 Yâ İlâhe\'l-ağniyâ\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne hallisnâ mine\'n-nâr.</item>
+        <item>            1 Yâ Evvele külli şey\'in ve âhirah\n2 Yâ İlahe külli şey\'in ve sâni\'ah\n3 Yâ Râzika külli şey\'in ve hâlikah\n4 Yâ Fâtira külli şey\'in ve melîkeh\n5 Yâ Kâbida külli şey\'in ve bâsiteh\n6 Yâ Mübdie külli şey\'in ve nıü\'îdeh\n7 Yâ Müsebbibe külli şey\'in ve mükaddirah s Yâ Mürabbiye külli şey\'in ve müdebbirah\n9 Yâ Mükevvira külli şey\'in ve muhavvileh\n10 Yâ Muhyiye külli şey\'in ve mümîteh\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne hallisnâ mine\'n-nâr.</item>
+        <item>            1 Yâ Hayra zâkirîn ve mezkûr\n2 Yâ Hayra şâkirîn ve meşkûr\n3 Yâ Hayra hâmidin ve mahmûd\n4 Yâ Hayra şahidin ve meşhûd\n5 Yâ Hayra dâ\'in ve med\'uvv\n6 Yâ Hayra mücîbin ve mücâb\n7 Yâ Hayra munisin ve enîs\n8 Yâ Hayra sahibin ve celîs\n9 Yâ Hayra maksûdin ve matlûb\n10 Yâ Hayra habîbin ve mahbûb\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne hallisnâ mine\'n-nâr.</item>
+        <item>            1 Yâ Men hüve limen de\'âhü mücîb\n2 Yâ Men hüve limen etâ\'ahû habîb\n3 Yâ Men hüve limen ehabbehû karîb\n4 Yâ Men hüve bimen erâdehû \'alîm\n5 Yâ Men hüve limen recâhü kerîm\n6 Yâ Men hüve bimen \'asâhü halîm\n7 Yâ Men hüve fî hilmihî hakîm\n8 Yâ Men hüve fî hükmihî \'azîm\n9 Yâ Men hüve fî \'azametihî rahîm\n10 Yâ Men hüve fî ihsânihî kadîm\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne hallisnâ mine\'n-nâr.</item>
+        <item>            Ve es\'elüke biesmâike \n1 Yâ Müsebbib\n2 Yâ Mukarrib\n3 Yâ Mü\'akkib\n4 Yâ Mukallib\n5 Yâ Mukaddir\n6 Yâ Mürattib\n7 Yâ Mürağğib\n8 Yâ Müzekkir\n9 Yâ Mükevvîn\n10 Yâ Mütekebbir\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne hallisnâ mine\'n-nâr.</item>
+        <item>            1 Yâ Men lâ yüşğilühû sem\'un an sem\'\n2 Yâ Men lâ yemne\'uhû fı\'lün an fi\'l\n5 Yâ Men lâ yülhîhi kavlün an kavi\n4 Yâ Men lâ yüğallituhû süâlün \'an suâl\n3 Yâ Men lâ yübrimühû ilhâhu\'Umulihhîn\n6 Yâ Men şeraha bi\'l-islâmi sudûra\'l-mü\'minîn\n7 Yâ Men etâbe bi zikrihî kulûbe\'l-muhbitîn\n8 Yâ Men la yeğibü \'an kulûbi\'l-müştâkın\n9 Yâ Men hüve gâyetü mürâdi\'l-mürîdîn\n10 Yâ Men la yahfâ \'aleyhi şey\'ün fı\'l-\'âlemîn\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne hallisnâ mine\'n-nâr</item>
+        <item>            1 Yâ Men hüve \'ilmühû sabık\n2 Yâ Men hüve va\'dühû sâdık\n3 Yâ Men hüve lütfühû zahir\n4 Yâ Men hüve emruhû ğâlib\n5 Yâ Men hüve kitâbühû muhkem\n6 Yâ Men hüve kadâühû kâin\n7 Yâ Men hüve kur\'anühû mecîd\n8 Yâ Men hüve mülkühû kadîm\n9 Yâ Men hüve fadlühû mukîm\n10 Yâ Men hüve \'arşühû \'azîm\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne hallisnâ mine\'n-nâr.</item>
+        <item>            1 Yâ Rabbe\'l-erbâb\n2 Yâ Müfettiha\'l-ebvâb\n3 Yâ Müsebbibe\'l-esbâb\n4 Yâ Mu\'tiye\'s sevâb\n5 Yâ Mülhime\'s-savâb\n6 Yâ Münşie\'s-sehâb\n7 Yâ Şedîde\'l-\'ikâb\n8 Yâ Seri\'a\'l-hisâb\n9 Yâ Men lehü\'l-iyâb\n10 Yâ Gafuru yâ Tevvâb\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne hallisnâ mine\'n-nâr.</item>
+        <item>            Ve es\'elüke biesmâike \n1 Yâ Rabbena\n2 Yâ İlâhenâ\n3 Yâ Seyyidenâ\n4 Yâ Mevlânâ\n5 Yâ Nâsıranâ\n6 Yâ Hafızana\n7 Yâ Kâdiranâ\n8 Yâ Râzikanâ\n9 Yâ Delîlenâ\n10 Yâ Muğisenâ\n\nSübhâneke yâ lâ ilahe illâ ente\'l-emâ-ne\'l-emâne hallisnâ mine\'n-nâr</item>
+    </string-array>
+
+    <string name="title_activity_select_cevsen">SelectCevsenActivity</string>
+
+</resources>
